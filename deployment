@@ -1,0 +1,23 @@
+🚀 Deployment Configuration
+
+This project is delivered as an Excel workbook and a PDF report. No server-side deployment or cloud hosting is required.
+
+Steps to Use
+
+1. Download the Excel workbook from the project repository.
+2. Open the workbook using Microsoft Excel or a compatible spreadsheet application.
+3. Navigate through the Summary, Raw Data, Working Formulas, and analysis worksheets.
+4. Review the KPIs, sales summaries, profit analysis, and key business findings.
+5. Export the report or relevant worksheets to PDF if required.
+
+Deployment Platform
+
+- Platform: GitHub
+- Application: Microsoft Excel
+- File Formats: ".xlsx", ".pdf"
+- Hosting: Not required
+- Execution Environment: Local computer
+
+Note
+
+This is a spreadsheet-based data analysis task, not a web application. The project can be accessed by downloading the files from the GitHub repository.
