@@ -1,0 +1,30 @@
+📋 Requirements
+
+Software Requirements
+
+- Microsoft Excel (2016 or later recommended) or Google Sheets
+- A computer or laptop to work with the dataset
+
+Dataset Requirements
+
+- Sample Superstore dataset in CSV or Excel format
+- Structured data containing sales, profit, category, region, customer segment, and discount information
+
+Excel Skills Required
+
+- Basic Excel formulas: "SUM", "AVERAGE", "COUNTIF"
+- Conditional formulas: "SUMIFS", "COUNTIFS", "AVERAGEIFS"
+- Sorting and filtering
+- Creating tables and summary reports
+- PivotTables for business data analysis
+- Basic KPI calculations and interpretation
+
+Output Requirements
+
+- Organized raw-data worksheet
+- Working/formula worksheet
+- Summary worksheet with key performance indicators
+- Sales and profit analysis by category, region, and customer segment
+- Key findings and business recommendations
+
+Note: No additional software installation or programming libraries are required for this Excel-based task.
